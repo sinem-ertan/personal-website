@@ -1,0 +1,28 @@
+{
+  "translation": {
+    "hero.title": "Designing, Building, and Maintaining..",
+    "lang": "TÜRKÇE",
+    "lang.switch": "'YE GEÇ",
+    "dark.mode": "Dark Mode",
+    "light.mode": "Light Mode",
+    "skills": "Skills",
+    "projects": "Projects",
+    "hire.me": "Hire Me",
+    "hero.text": "Hi, I’m a dynamic and proficient Front End Developer. I am passionate about creating responsive user experiences, leveraging a diversified background working with many interface libraries.",
+    "profile": "Profile",
+    "birthdate": "Birthdate",
+    "city": "City",
+    "education": "Education",
+    "role": "Preferred Role",
+    "about.me": "About Me",
+    "about.me.text": "My name is Sinem. I studied economics and also law and interior design. I have more than four years of experience executing marketing, marketing strategies and leading sales teams, but I am now continuing my career as an advanced front-end developer.",
+    "project1": "In this project, I developed a website using HTML, CSS, JS, and React. The purpose of the project is to place an order in accordance with the minimum and maximum standards determined by the company and calculate the price of the order.",
+    "project2": "In the project, a simple “X” interface was created using JS, HTML and CSS.",
+    "project3": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+    "view.site": "View Site",
+    "together": "Let’s work together on your next product!",
+    "blog": "Personal Blog",
+    "error": "An error occurred",
+    "loading": "Loading"
+  }
+}

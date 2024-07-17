@@ -1,0 +1,28 @@
+{
+  "translation": {
+    "hero.title": "Tasarlama, Geliştirme ve Bakım...",
+    "lang": "ENGLISH",
+    "lang.switch": "SWITCH TO",
+    "dark.mode": "Karanlık Mod",
+    "light.mode": "Aydınlık Mod",
+    "skills": "Yetenekler",
+    "projects": "Projeler",
+    "hire.me": "İşe Al",
+    "hero.text": "Merhaba, ben dinamik ve yetenekli bir Front-End Geliştiriciyim. Kullanıcı deneyimlerini iyileştirmeye tutkulu olmakla birlikte, birçok arayüz kütüphanesiyle çalışarak elde ettiğim zengin tecrübemi değerlendiriyorum.",
+    "profile": "Profil",
+    "birthdate": "Doğum tarihi",
+    "city": "İkamet Şehri",
+    "education": "Eğitim Durumu",
+    "role": "Tercih Ettiği Rol",
+    "about.me": "Hakkımda",
+    "about.me.text": "Merhaba, ben Sinem. Ekonomi, hukuk ve iç mimarlık alanlarında eğitim aldım. Pazarlama, pazarlama stratejileri yürütme ve satış ekiplerine liderlik etme konusunda dört yılı aşkın deneyime sahibim, ancak şu anda kariyerime ileri seviyede front-end developer olarak devam ediyorum.",
+    "project1": "Bu projede, siparişin minimum ve maksimum standartlarına göre oluşturulmasını ve fiyatın hesaplanmasını sağlayan bir web sitesi geliştirdim. Kullanılan teknolojiler ise HTML, CSS, JS ve React oldu.",
+    "project2": "Projede, JS, HTML ve CSS kullanarak basit bir \"X\" arayüzü oluşturuldu.",
+    "project3": "Bu proje, vanilla JS, SCSS ve Parcel Bundler kullanılarak oluşturulmuş basit, özelleştirilebilir ve minimal kurulumlu bir çerez eklentisidir. Kullanıcıların hangi çerezleri kabul veya reddetmek istediklerini seçmelerine izin verir. NPM paket olarak ve kod ve temalarda her türlü özelleştirmeye izin veren bir Git deposuna sahiptir.",
+    "view.site": "Siteye Git",
+    "together": "Hadi bir sonraki ürününüzde birlikte çalışalım!",
+    "blog": "Kişisel Blog",
+    "error": "Bir hata oluştu",
+    "loading": "Yükleniyor"
+  }
+}
