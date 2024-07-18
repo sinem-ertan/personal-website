@@ -17,9 +17,7 @@ function Footer() {
             <div className="flex">
               <div>&#128073;</div>
               <div className="text-lg text-red underline ml-2  dark:text-palepurple">
-                <a href="mailto:ssinemertan@gmail.com">
-                  ssinemertan@gmail.com.tr
-                </a>
+                <a href="mailto:ssinemertan@gmail.com">ssinemertan@gmail.com</a>
               </div>
             </div>
             <div className="flex">
