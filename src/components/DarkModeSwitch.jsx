@@ -5,7 +5,7 @@ import { changeTheme } from "../actions/theme";
 import { setTheme } from "../utils/localStorage";
 
 function DarkModeSwitch() {
-  const dispath = useDispatch();
+  const dispatch = useDispatch();
   const theme = useSelector((store) => store.theme);
   const { t } = useTranslation();
 
@@ -24,7 +24,7 @@ function DarkModeSwitch() {
   }, [isDarkMode]);
 
   const toggle = (e) => {
-    dispath(changeTheme(e.target.checked ? "dark" : "light"));
+    dispatch(changeTheme(e.target.checked ? "dark" : "light"));
   };
 
   return (
